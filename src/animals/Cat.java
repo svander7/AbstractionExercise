@@ -1,10 +1,10 @@
 package animals;
 
-public class Sheep extends Animal {
+public class Cat extends Animal{
 
 	@Override
 	public void animalSound() {
-		System.out.println("Baaaa!");
+		System.out.println("Meow!");
 		
 	}
 
